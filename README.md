@@ -1,4 +1,4 @@
-## Parental control on android devices
+## Dragonary on android devices
 Android App which can used by people to listen to music and meet new people.
 
 ### Features
