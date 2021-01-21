@@ -1,9 +1,9 @@
 ## Parental control on android devices
-Android App which can used by parents to restrict selected activities on an Android Smartphone their child’s.
+Android App which can used by people to listen to music and meet new people.
 
 ### Features
-Parental Controller has features that are:
-- Limit the time of using the device
-- Show notifications about the discharge of the device
-- Receive calls in blocked form
-- Screen on / off settings available
+Dragonary has features that are:
+- Listen to music, create playlists, subscribe to artists
+- Meet people through shared music matching
+- Use the messenger
+- Sleeping mode
